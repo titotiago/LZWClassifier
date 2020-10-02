@@ -1,3 +1,2 @@
 # LZW Classifier
-
-Classificador de imagens utilizando a compressão LZW
+Image classifier using LZW compression. 
